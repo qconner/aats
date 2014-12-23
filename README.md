@@ -10,10 +10,13 @@ It requires boost and has been tested only on MacOSX, to date.
 
 Usage
 -----
-./vt100_server tcp_port_number baud_rate file_to_send
+`./vt100_server tcp_port_number baud_rate file_to_send`
 
 Building for MacOSX
 -----
-./BUILD.sh
+`./BUILD.sh`
 
+### vt100 content
+Visit this site for vt100 ascii art content:
+http://artscene.textfiles.com/vt100/
 
