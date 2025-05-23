@@ -16,6 +16,10 @@ Building for MacOSX
 -----
 `./BUILD.sh`
 
+Building for Ubuntu in docker
+-----
+`docker build -t aats .`
+
 ### vt100 content
 Visit this site for vt100 ascii art content:
 http://artscene.textfiles.com/vt100/
